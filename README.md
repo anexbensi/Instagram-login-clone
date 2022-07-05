@@ -2,5 +2,5 @@
  This is a clone of basic Instagram login  page. Technologies used : HTML5, CSS3, JS ES2015
 
 
-just clone the repo or download the zip file
+just clone the repo or download the zip file.
 You can directly run the index page
