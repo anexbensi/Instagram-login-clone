@@ -1,0 +1,198 @@
+.main{
+    background:white;
+    width: 100%;
+
+}
+body{
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+#left-main{
+    width: 50%;
+    float: left;
+    background-color: white;
+    text-align: right;
+}
+#right-main{
+    width: 50%;
+    background-color:white;
+    float: right;
+    height: 628px;
+
+}
+#imagemain{
+    text-align: right;
+    margin-top: 4%;
+}
+#login{
+    background: red;
+    width: 20%;
+    height: 65%;
+    float: left;
+}
+.login-frame{
+    background: white;
+    width: 350px;
+    height: 400px;
+    margin-left: 25px;
+    margin-top: 40px;
+    border: 1px solid rgb(225, 219, 219);
+}
+.signup-frame{
+    background: white;
+    width: 350px;
+    height: 60px;
+    margin-left: 25px;
+    margin-top: 10px;
+    border: 1px solid rgb(225, 219, 219);
+}
+.getapp{
+    background: white;
+    width: 350px;
+    height: 100px;
+    margin-left: 25px;
+    margin-top: 10px;
+    border: 0px;
+}
+#common{
+    width: 250px;
+    border-radius: 3px;
+    border: 1px solid rgb(213, 206, 206);
+    height: 35px;
+    margin: 7px;
+    color: grey;
+    font-size: 11px;
+    padding-left: 10px;
+    margin-bottom: 0px;
+
+    
+}
+#login-button{
+    background: #88b1f2;
+    color: white;
+    width: 260px;
+    border-radius: 3px;
+    height: 30px;
+    border: 0ch;
+    margin-top: 12px;
+
+}
+#logomain{
+    padding-top: 20px;
+}
+#hline1{
+    width: 100px;
+    border-top: 1px solid rgb(221, 199, 199);
+    float: left;
+    margin-left: 45px;
+    border-left: 0px ;
+    border-right: 0px ;
+    border-bottom: 0px ;
+    margin-right: 0%;
+
+}
+#hline2{
+    width: 100px;
+    border-top: 1px solid rgb(221, 199, 199);
+    border-left: 0px ;
+    border-right: 0px ;
+    border-bottom: 0px ;
+
+}
+#or{
+    display: inline-block;
+    color: rgb(221, 199, 199);
+    font-size: 15px;
+    padding: 0%;
+    margin: 0%;
+}
+#logwfb{
+    display: inline-block;
+    color: #385185;
+    font: inherit;
+    margin: 0%;
+    padding-left: 10px;
+    font-family:sans-serif;
+
+}
+.passwordforget{
+    color: #00376b;
+    color: rgba(var(--fe0,0,55,107),1);
+    font-size: 12px;
+    line-height: 16px;
+    margin-top: 12px;
+    text-align: center;
+    font-family:sans-serif;
+    font-weight: lighter;
+}
+#baseoflogin{
+    padding-bottom: 15px;
+}
+
+#commontext{
+    display: inline-block;
+    font-family:sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+    padding: 0%;
+    margin: 0%;
+}
+#signup{
+    font-family:sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    color: #0095f6;
+    text-decoration: none;
+}
+#app{
+    height: 40px;
+}
+
+
+
+.footer{
+    display: inline-block;
+    padding-top: 40px;
+    width: 100%;
+    background: rgb(255, 255, 255);
+    
+
+}
+
+
+#fitem{
+    color: #8e8e8e;
+    color: rgba(var(--fe0,0,55,107),1);
+    font-size: 12px;
+    line-height: 16px;
+    margin-top: 12px;
+    font-family:sans-serif;
+    font-weight: lighter;
+    padding: 10px;
+}
+#footer1{
+    width: 100%;
+    text-align: center;
+}
+
+.footertable1{
+    margin: 0%;
+    padding: 0%;
+    display: inline-block;
+}
+.footertable2{
+    margin: -1%;
+    padding: 0%;
+}
+.footertable3{
+    margin: 1%;
+    padding: 0%;
+    display: inline-block;
+}
+#footer2{
+    width: 100%;
+    text-align: center;
+}
+#language{
+    border: 0ch;
+}
